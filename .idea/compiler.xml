@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shopping-service" />
+        <module name="shopping-web" />
+        <module name="shopping-dao" />
+        <module name="shopping-entity" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="java_01" target="1.7" />
+      <module name="Maven1" target="1.5" />
+      <module name="Maven_01" target="1.7" />
+      <module name="shopping" target="1.5" />
+      <module name="shopping-dao" target="1.7" />
+      <module name="shopping-entity" target="1.7" />
+      <module name="shopping-service" target="1.7" />
+      <module name="shopping-web" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
